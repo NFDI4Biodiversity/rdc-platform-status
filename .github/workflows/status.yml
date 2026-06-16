@@ -2,7 +2,8 @@ name: Check service status
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    # Use random time offset to avoid peak times.
+    - cron: '7,37 * * * *'
   workflow_dispatch:
 
 permissions:
