@@ -48,7 +48,7 @@
 <p class="last-updated" id="last-updated"></p>
 <div id="services"></div>
 <script>
-  fetch('status.json')
+  fetch('https://raw.githubusercontent.com/NFDI4Biodiversity/rdc-platform-status/refs/heads/main/docs/status.json')
     .then((res) => res.json())
     .then((data) => {
       document.getElementById('last-updated').textContent =
