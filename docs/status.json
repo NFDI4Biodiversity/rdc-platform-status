@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-06-16T11:36:53.022Z",
+  "services": [
+    {
+      "name": "de.NBI Cloud",
+      "url": "https://status.cloud.denbi.de/status/default",
+      "status": "status-up"
+    },
+    {
+      "name": "GWDG Cloud",
+      "url": "https://status.gwdg.de/",
+      "status": "status-up"
+    },
+    {
+      "name": "4BioLogin",
+      "url": "https://status.gwdg.de/",
+      "status": "status-up"
+    },
+    {
+      "name": "NFDI Login",
+      "url": "https://doc.nfdi-aai.de/",
+      "status": "status-up"
+    },
+    {
+      "name": "Scorpion",
+      "url": "https://scorpion.bi.denbi.de/nfdi/",
+      "status": "status-up"
+    },
+    {
+      "name": "Website",
+      "url": "https://nfdi4biodiversity.org",
+      "status": "status-up"
+    },
+    {
+      "name": "Knowledge Base",
+      "url": "https://kb.gfbio.org",
+      "status": "status-up"
+    },
+    {
+      "name": "Helpdesk",
+      "url": "https://helpdesk.gfbio.org",
+      "status": "status-up"
+    }
+  ]
+}
