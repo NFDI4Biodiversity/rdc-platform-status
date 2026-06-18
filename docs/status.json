@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T22:24:38.685Z",
+  "generatedAt": "2026-06-18T00:00:23.140Z",
   "services": [
     {
       "name": "de.NBI Cloud",
@@ -34,7 +34,7 @@
     {
       "name": "Knowledge Base",
       "url": "https://kb.gfbio.org",
-      "status": "status-up"
+      "status": "status-unknown"
     },
     {
       "name": "Helpdesk",
