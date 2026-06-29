@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T12:05:23.829Z",
+  "generatedAt": "2026-06-29T16:06:24.884Z",
   "services": [
     {
       "name": "de.NBI Cloud",
@@ -9,7 +9,7 @@
     {
       "name": "GWDG Cloud",
       "url": "https://status.gwdg.de/",
-      "status": "status-unknown"
+      "status": "status-up"
     },
     {
       "name": "4BioLogin",
