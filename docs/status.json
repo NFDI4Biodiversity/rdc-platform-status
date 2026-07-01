@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T12:14:59.459Z",
+  "generatedAt": "2026-07-01T15:22:15.632Z",
   "services": [
     {
       "name": "de.NBI Cloud",
@@ -29,17 +29,17 @@
     {
       "name": "Website",
       "url": "https://nfdi4biodiversity.org",
-      "status": "status-up"
+      "status": "status-unknown"
     },
     {
       "name": "Knowledge Base",
       "url": "https://kb.gfbio.org",
-      "status": "status-up"
+      "status": "status-unknown"
     },
     {
       "name": "Helpdesk",
       "url": "https://helpdesk.gfbio.org",
-      "status": "status-up"
+      "status": "status-unknown"
     }
   ]
 }
