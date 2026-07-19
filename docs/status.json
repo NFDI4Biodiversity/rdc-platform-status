@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-19T12:03:59.146Z",
+  "generatedAt": "2026-07-19T13:45:59.803Z",
   "services": [
     {
       "name": "de.NBI Cloud",
       "url": "https://status.cloud.denbi.de/status/default",
-      "status": "status-unknown"
+      "status": "status-up"
     },
     {
       "name": "GWDG Cloud",
