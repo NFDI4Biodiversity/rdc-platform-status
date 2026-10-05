@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T09:33:47.942Z",
+  "generatedAt": "2026-10-05T18:47:45.013Z",
   "services": [
     {
       "name": "de.NBI Cloud",
@@ -14,7 +14,7 @@
     {
       "name": "4BioLogin",
       "url": "https://status.gwdg.de/",
-      "status": "status-up"
+      "status": "status-incident"
     },
     {
       "name": "NFDI Login",
@@ -24,7 +24,7 @@
     {
       "name": "Scorpion",
       "url": "https://scorpion.bi.denbi.de/nfdi/",
-      "status": "status-up"
+      "status": "status-unknown"
     },
     {
       "name": "Website",
