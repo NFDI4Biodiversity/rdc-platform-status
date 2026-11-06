@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:23:22.487Z",
+  "generatedAt": "2026-11-06T22:18:53.994Z",
   "services": [
     {
       "name": "de.NBI Cloud",
@@ -14,7 +14,7 @@
     {
       "name": "4BioLogin",
       "url": "https://status.gwdg.de/",
-      "status": "status-up"
+      "status": "status-incident"
     },
     {
       "name": "NFDI Login",
