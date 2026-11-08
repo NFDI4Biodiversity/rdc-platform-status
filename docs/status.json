@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:27:47.316Z",
+  "generatedAt": "2026-11-08T22:24:41.941Z",
   "services": [
     {
       "name": "de.NBI Cloud",
@@ -24,7 +24,7 @@
     {
       "name": "Scorpion",
       "url": "https://scorpion.bi.denbi.de/nfdi/",
-      "status": "status-up"
+      "status": "status-unknown"
     },
     {
       "name": "Website",
