@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:25:23.167Z",
+  "generatedAt": "2026-11-18T01:13:29.775Z",
   "services": [
     {
       "name": "de.NBI Cloud",
@@ -39,7 +39,7 @@
     {
       "name": "Helpdesk",
       "url": "https://helpdesk.gfbio.org",
-      "status": "status-unknown"
+      "status": "status-up"
     }
   ]
 }
